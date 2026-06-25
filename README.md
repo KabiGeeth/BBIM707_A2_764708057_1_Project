@@ -1,12 +1,12 @@
-# BBIM707 — Advanced Data Engineering Portfolio
+# BBIM707 - Advanced Data Engineering Portfolio
 
 End-to-end data engineering pipeline over the Online Retail II dataset, enriched with
-country reference data — covering ETL, distributed storage, and real-time streaming.
+country reference data - covering ETL, distributed storage, and real-time streaming.
 
 ## Overview
-- **Part A — ETL (pandas):** extract from two sources (CSV file + SQLite database),
+- **Part A - ETL (pandas):** extract from two sources (CSV file + SQLite database),
   clean and transform both, integrate into a unified table, and analyse it.
-- **Part B — Big data (Docker):** ingest into HDFS, store/query with Hive + MongoDB,
+- **Part B - Big data (Docker):** ingest into HDFS, store/query with Hive + MongoDB,
   stream through Kafka, and cluster transactions in real time with Spark Structured Streaming.
 
 ## Tech stack
